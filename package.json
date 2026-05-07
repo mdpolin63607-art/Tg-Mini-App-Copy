@@ -14,7 +14,7 @@
     "@nextui-org/react": "^2.6.8",
     "@telegram-apps/sdk-react": "^2.0.5",
     "@telegram-apps/telegram-ui": "^2.1.5",
-    "@ton/core": "^0.59.0",
+    "@ton/core": "^0.62.0",
     "@ton/crypto": "^3.3.0",
     "@ton/ton": "^15.1.0",
     "@tonconnect/sdk": "^3.0.5",
